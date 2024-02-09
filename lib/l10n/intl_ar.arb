@@ -1,0 +1,18 @@
+{
+    "Islami": "اسلامي",
+    "Quran":"القران",
+    "Hadeth":"الحديث",
+    "Sebha": "السبحة",
+    "Radio":"الاذاعه",
+    "Sura_name":"اسم السورة",
+    "Hadeth_name": "اسم الحديث",
+    "BroadcastAlquranAlkarim":"اذاعه القران الكريم",
+    "Light":"مضيء",
+    "Dark":"مظلم",
+    "Theme":"النمط",
+    "English":"انجليزي",
+    "Arabic":"عربي",
+    "Language":"انجليزي",
+    "Setting":"الاعدادات",
+    "NumberOfAltasbihat" :"عدد التسبيحات"
+}
