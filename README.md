@@ -37,10 +37,7 @@
 
 
 ## 🎥 Video
-
-
-https://github.com/Mohamed-Essam-Mohamed/islami-app/assets/152906492/aa845b08-537f-4ad2-b925-8d7164e6fc00
-
+https://github.com/Mohamed-Essam-Mohamed/islami-app/assets/152906492/abcfb0fe-2c9a-45b8-8018-d61c15588a84
 
 
 
