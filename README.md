@@ -2,7 +2,6 @@
 
 
 
-
 ## 🚀 Getting Started
 
 - The application helps the user read the Holy Quran, read the hadiths, listen to the Holy Quran radio, and  praise.
